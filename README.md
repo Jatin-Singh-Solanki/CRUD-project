@@ -1,4 +1,4 @@
-# AlphaRecon CRUD Application
+# CRUD Application
 
 ![Java](https://img.shields.io/badge/Java-25-blue)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-4.0-green)
@@ -248,6 +248,7 @@ Dockerize the application for easier setup and deployment
 
 Author
 
-Abhinay Mangasamudram
-Software Developer#   C R U D - p r o j e c t  
+Jatin Singh Solanki
+
+ 
  
